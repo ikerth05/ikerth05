@@ -10,6 +10,7 @@ En esta cuenta de github subiré proyectos personales que vaya realizando, ponie
 
 ## ¡Apasionado por la ciberseguridad y en mente de estudiarla orientada al Pentesting!
 
+- ¡Cualquier consejo, aporte o dato que me querais dar sobre Ciberseguridad estoy encantado y abierto para aprender!
 
 ## 📫 Cómo contactarme
 
