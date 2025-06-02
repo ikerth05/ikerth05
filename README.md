@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Buenas! Soy Iker Testa
 
-<!--
-**ikerth05/ikerth05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de informática, actualmente con un CFGM en sistemas microinformáticos y redes y en proceso de un CFGS en sistemas informáticos en red con perfil orientado a ciberseguridad.
+En esta cuenta de github subiré proyectos personales que vaya realizando, poniendo en práctica conocimientos adquiridos en los estudios!
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 [Iker-Testa](https://github.com/ikerth05/Hosting-VM): Primer Proyecto
+
+## ¡Apasionado por la ciberseguridad y en mente de estudiarla orientada al Pentesting!
+
+
+## 📫 Cómo contactarme
+
+- 📧 ikertestahurtado55@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/iker-testa-hurtado-33948233b/)
