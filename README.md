@@ -6,7 +6,21 @@ En esta cuenta de github subiré proyectos personales que vaya realizando, ponie
 # Certificaciones
 
 - Introducción a Linux - Cursando
+- En este curso estoy trabajando en:
+- Conocimientos de comandos
+- Gestión de permisos
+- Scripting en Bash
+- Tareas Cron
+- Conocimiento sobre identificación de puertos
+
+  
 - Personalización del entorno Linux - Cursado
+- En este curso he trabajado con las siguientes herramientas:
+- BSPWM
+- SXHKD
+- KITTY
+- POWERLEVEL10k
+- ROFI
 <img width="1601" height="1066" alt="image" src="https://github.com/user-attachments/assets/06c7f503-b09f-4282-8f32-b2e8d0b3622e" />
 
 
