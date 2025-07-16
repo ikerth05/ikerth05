@@ -12,7 +12,8 @@ En esta cuenta de github subiré proyectos personales que vaya realizando, ponie
 - Scripting en Bash
 - Tareas Cron
 - Conocimiento sobre identificación de puertos
-
+<br>
+<br>
   
 - Personalización del entorno Linux - Cursado
 - En este curso he trabajado con las siguientes herramientas:
