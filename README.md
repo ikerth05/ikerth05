@@ -7,7 +7,7 @@ En esta cuenta de github subiré proyectos personales que vaya realizando, ponie
 
 - Introducción a Linux - Cursando
 - Personalización del entorno Linux - Cursado
-- <img width="1601" height="1066" alt="image" src="https://github.com/user-attachments/assets/06c7f503-b09f-4282-8f32-b2e8d0b3622e" />
+<img width="1601" height="1066" alt="image" src="https://github.com/user-attachments/assets/06c7f503-b09f-4282-8f32-b2e8d0b3622e" />
 
 
 
