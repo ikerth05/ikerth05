@@ -12,6 +12,7 @@ En esta cuenta de github subiré proyectos personales que vaya realizando, ponie
 - Scripting en Bash
 - Tareas Cron
 - Conocimiento sobre identificación de puertos
+  
   <img width="567" height="378" alt="Certificado_Introducción_A_Linux" src="https://github.com/user-attachments/assets/62e25904-8d32-4d88-955b-c042319f3ac8" />
 
 <br>
