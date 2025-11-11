@@ -1,6 +1,6 @@
-Éste script se ha creado para uso personal, donde cogemos el precio de BTC mediante la API de Kraken y hacemos un filtrado de los valores que necesitamos,
-se establece un loop para que se actualize el precio cada 60 segundos. Éste precio lo podemos ver de forma gráfica mediante zenity en una ventana emergente.
-Mediante if nos detecta el precio objetivo que le estipulamos, y en caso de llegar nos llega una llamada al número configurado mediante Twilio
+# Éste script se ha creado para uso personal, donde cogemos el precio de BTC mediante la API de Kraken y hacemos un filtrado de los valores que necesitamos,
+# se establece un loop para que se actualize el precio cada 60 segundos. Éste precio lo podemos ver de forma gráfica mediante zenity en una ventana emergente.
+# Mediante if nos detecta el precio objetivo que le estipulamos, y en caso de llegar nos llega una llamada al número configurado mediante Twilio
 #!/bin/bash
 set -uo pipefail
 
