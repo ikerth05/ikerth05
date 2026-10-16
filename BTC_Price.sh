@@ -36,8 +36,8 @@ while true; do
             # Esto es para recibir llamadas automáticas con Twilio en caso de superar un precio de BTC
             {
                 http=$(curl -sS -o /dev/null -w "%{http_code}" \
-                -X POST "https://api.twilio.com/2010-04-01/Accounts/AC7605bc3b86e9c/Calls.json" \
-                --data-urlencode "Url=https://handler.twilio.com/twiml/EH8fb0f2007b95a6419393be" \
+                -X POST "https://api.twilio.com/2010-04-01/Accounts/AC7605kj3b91e2a/Calls.json" \
+                --data-urlencode "Url=https://handler.twilio.com/twiml/EH8fb0f2007b12klj6493askjl3a93be" \
                 --data-urlencode "To=+34XXXXXXXXX" \
                 --data-urlencode "From=+1XXXXXXXXX" \
                 -u AC74b3bc63b948766e9c:c08a3kj69b32axc1e4c50b
